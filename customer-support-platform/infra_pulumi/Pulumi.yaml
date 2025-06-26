@@ -1,0 +1,3 @@
+name: customer-support-platform
+runtime: python
+description: Pulumi stack for local Docker infrastructure

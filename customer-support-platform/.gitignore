@@ -1,0 +1,164 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Docker
+**/docker-data/
+**/.docker/
+**/data/
+**/volumes/
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+# .env.*
+# !.env.example
+
+# Local development
+local_settings.py
+local_config.py
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# MinIO local data
+minio_data/
+
+# PostgreSQL data
+postgres_data/
+
+# Redis data
+redis_data/
+
+# RabbitMQ data
+rabbitmq_data/
+
+# Vault data
+vault_data/
+# ChromaDB data
+chroma_data/
+# Grafana data
+grafana_data/
+# Elasticsearch data
+elasticsearch_data/
+# pgAdmin data
+pgadmin_data/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Project specific
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.cer
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Coverage reports
+coverage/
+htmlcov/
+
+# Pycharm
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Node.js (if applicable)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python debug
+*.prof
+
+# Local development
+local_settings.py
+local_config.py
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Local development
+.env.local
+.env.development
+.env.test
+.env.production
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project specific ignores
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.cer
+*.txt

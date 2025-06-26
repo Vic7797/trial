@@ -1,0 +1,1 @@
+-- Database initialization is handled by 00-init.sh script
